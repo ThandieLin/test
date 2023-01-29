@@ -1,0 +1,4 @@
+Name: Thandie Lin
+Date: 29 January 2023
+What are we doing?
+Learning how to use Git
